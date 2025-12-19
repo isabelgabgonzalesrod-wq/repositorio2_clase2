@@ -7,5 +7,6 @@ package Ejemplo2;
 public class Ejemplo2 {
     public static void main (String[]args){
     System.out.print("Hola todos...!");
+    System.out.print("¿Como estan?");
     }
 }
